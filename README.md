@@ -14,9 +14,9 @@ This framework allows developers to "program" Language Model (LM) prompts using 
 
     1a. Or use one of the following options
 
-    - <a href="https://ollama.com/download" target="_blank">Desktop</a>
-    - <a href="https://github.com/ollama/ollama/blob/main/docs/linux.md#manual-install" target="_blank">Manual</a>
-    - <a href="https://github.com/ollama/ollama/blob/main/docs/docker.md#ollama-docker-image" target="_blank">Other</a> Docker Install Options
+    - <a href="https://ollama.com/download" target="_blank" rel="noreferer noopener">Desktop</a>
+    - <a href="https://github.com/ollama/ollama/blob/main/docs/linux.md#manual-install" target="_blank" rel="noreferer noopener">Manual</a>
+    - <a href="https://github.com/ollama/ollama/blob/main/docs/docker.md#ollama-docker-image" target="_blank" rel="noreferer noopener">Other</a> Docker Install Options
 
 2. Start the Ollama container if you have it already  
 
